@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Only one for me (너 없인 안 된다)",
+  "base_artist": "BTOB",
+  "createdAt": "2026-01-14T03:41:20.022748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Only One For Me",
+      "artist": "Brian McKnight",
+      "has_synced": true,
+      "path": "select/01_Only_One_For_Me_Brian_McKnight.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Only one for me",
+      "artist": "Sugadaisy",
+      "has_synced": true,
+      "path": "select/02_Only_one_for_me_Sugadaisy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Only One For Me",
+      "artist": "Brian McKnight",
+      "has_synced": false,
+      "path": "select/03_The_Only_One_For_Me_Brian_McKnight.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Only one for me",
+      "artist": "BTOB",
+      "has_synced": true,
+      "path": "select/04_Only_one_for_me_BTOB.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Only One For Me",
+      "artist": "The Arcs",
+      "has_synced": true,
+      "path": "select/05_Only_One_For_Me_The_Arcs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Only One for Me",
+      "artist": "Brian McKnight",
+      "has_synced": false,
+      "path": "select/06_Only_One_for_Me_Brian_McKnight.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Only One For Me",
+      "artist": "Hillsong London",
+      "has_synced": true,
+      "path": "select/07_Only_One_For_Me_Hillsong_London.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Only One for Me",
+      "artist": "ONE N' ONLY",
+      "has_synced": true,
+      "path": "select/08_Only_One_for_Me_ONE_N'_ONLY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're The Only One For Me",
+      "artist": "Allure",
+      "has_synced": false,
+      "path": "select/09_You're_The_Only_One_For_Me_Allure.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Only One for Me",
+      "artist": "McKnight, Brian",
+      "has_synced": true,
+      "path": "select/10_Only_One_for_Me_McKnight,_Brian.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Only One for Me",
+      "artist": "Tevin Campbell",
+      "has_synced": false,
+      "path": "select/11_The_Only_One_for_Me_Tevin_Campbell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Only One for Me (Live)",
+      "artist": "Brian McKnight",
+      "has_synced": false,
+      "path": "select/12_Only_One_for_Me_(Live)_Brian_McKnight.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "He’s the Only One for Me",
+      "artist": "Transvision Vamp",
+      "has_synced": false,
+      "path": "select/13_He’s_the_Only_One_for_Me_Transvision_Vamp.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Only One for Me",
+      "artist": "Gateway Worship",
+      "has_synced": true,
+      "path": "select/14_Only_One_for_Me_Gateway_Worship.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Only One for Me",
+      "artist": "Elevation Youth",
+      "has_synced": true,
+      "path": "select/15_Only_One_for_Me_Elevation_Youth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Only One For Me",
+      "artist": "Takanori Iwata",
+      "has_synced": true,
+      "path": "select/16_Only_One_For_Me_Takanori_Iwata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Only one for me",
+      "artist": "BTOB",
+      "has_synced": false,
+      "path": "select/pl_01_Only_one_for_me_BTOB.txt"
+    }
+  ]
+}
